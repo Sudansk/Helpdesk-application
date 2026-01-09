@@ -94,6 +94,11 @@ export default function Login() {
             Register
           </span>
         </p>
+              <p className="text-sm text-center mt-3">
+  <a href="/forgot-password" className="text-blue-600">
+    Forgot Password?
+  </a>
+</p>
 
       </div>
     </div>
